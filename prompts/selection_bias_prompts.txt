@@ -1,0 +1,5 @@
+Prompt 1: Use only goals and assists to rank the top 5 players this season.
+Prompt 2: Use only fouls and turnovers to determine the most "undisciplined" players.
+Prompt 3: Evaluate the best player ignoring game appearances (GP).
+Prompt 4: Rank players based only on draw controls (DC) and ground balls (GB).
+Prompt 5: Describe the top performer excluding all defensive metrics.

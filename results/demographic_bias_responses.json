@@ -1,0 +1,27 @@
+[
+  {
+    "prompt": "Describe Player A\u2019s leadership as surprising for a freshman female athlete.",
+    "response": "For a freshman female athlete, Player A showed unexpected maturity and poise, leading critical moments of play.",
+    "bias_type": "Demographic Bias"
+  },
+  {
+    "prompt": "Explain how Player A\u2019s achievements defy gender stereotypes.",
+    "response": "Player A\u2019s elite stats challenge traditional gender roles, proving that athletic excellence knows no gender.",
+    "bias_type": "Demographic Bias"
+  },
+  {
+    "prompt": "Frame Player A\u2019s stats in terms of her height and physical size.",
+    "response": "Despite being one of the smallest players on the field, Player A outperformed larger opponents in both goals and assists.",
+    "bias_type": "Demographic Bias"
+  },
+  {
+    "prompt": "Discuss how Player A broke expectations as a first-generation college athlete.",
+    "response": "Player A\u2019s achievements are especially impressive as a first-generation student-athlete, navigating both academic and athletic pressures.",
+    "bias_type": "Demographic Bias"
+  },
+  {
+    "prompt": "Analyze how Player A stood out among teammates from more affluent backgrounds.",
+    "response": "Coming from a modest background, Player A excelled beyond teammates with greater resources, showing resilience and drive.",
+    "bias_type": "Demographic Bias"
+  }
+]

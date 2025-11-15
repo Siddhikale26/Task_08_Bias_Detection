@@ -1,0 +1,27 @@
+[
+  {
+    "prompt": "Use only the last five games to evaluate Player A\u2019s season.",
+    "response": "In the final five games, Player A scored 12 goals and assisted 9 times, signaling a strong end to the season.",
+    "bias_type": "Selection Bias"
+  },
+  {
+    "prompt": "Assess Player A\u2019s contributions based only on games won.",
+    "response": "In wins, Player A averaged 3.8 points per game, reinforcing her value in matchups that mattered most.",
+    "bias_type": "Selection Bias"
+  },
+  {
+    "prompt": "Focus on Player A\u2019s turnovers and ignore goals to show a performance decline.",
+    "response": "Player A had 15 turnovers, raising concerns about ball control despite a strong scoring record.",
+    "bias_type": "Selection Bias"
+  },
+  {
+    "prompt": "Analyze Player A\u2019s season by excluding non-conference games.",
+    "response": "In conference games alone, Player A had 18 goals and 22 assists, showing leadership in high-stakes contests.",
+    "bias_type": "Selection Bias"
+  },
+  {
+    "prompt": "Evaluate Player A\u2019s stats using only games played at home.",
+    "response": "At home, Player A showed dominance with 20 goals and 17 assists\u2014proving her impact in front of home fans.",
+    "bias_type": "Selection Bias"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "prompt": "Highlight how Player A\u2019s high assists validate their playmaker role.",
+    "response": "The high assist count confirms Player A\u2019s reputation as a top-tier playmaker who consistently supports scoring opportunities.",
+    "bias_type": "Confirmation Bias"
+  },
+  {
+    "prompt": "Use Player A\u2019s stats to support the belief that sophomore players lead more effectively.",
+    "response": "Player A, a sophomore, led in assists and points, reinforcing the idea that second-year players bring maturity and results.",
+    "bias_type": "Confirmation Bias"
+  },
+  {
+    "prompt": "Show how Emma Ward\u2019s success proves prior training works.",
+    "response": "Emma Ward\u2019s success validates the effectiveness of the preseason regimen and skill-building drills.",
+    "bias_type": "Confirmation Bias"
+  },
+  {
+    "prompt": "Use data to confirm Player A\u2019s strong clutch performance.",
+    "response": "Player A scored several game-winning goals, validating the belief in their clutch capabilities under pressure.",
+    "bias_type": "Confirmation Bias"
+  },
+  {
+    "prompt": "Describe how the season confirms early scouting reports on Player A.",
+    "response": "This season\u2019s performance proves early scouts were right\u2014Player A has lived up to all expectations.",
+    "bias_type": "Confirmation Bias"
+  }
+]

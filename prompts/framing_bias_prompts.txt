@@ -1,0 +1,5 @@
+Prompt 1: Describe Player A's performance as a "record-breaking" season. Be optimistic and focus on strengths.
+Prompt 2: Describe Player A's performance using a neutral tone, simply stating stats.
+Prompt 3: Describe Player A's performance as underwhelming. Highlight turnovers and fouls.
+Prompt 4: Use emotionally positive framing to describe Player A’s leadership and impact.
+Prompt 5: Use negative framing to describe the same performance. Emphasize mistakes and losses.

@@ -1,0 +1,27 @@
+[
+  {
+    "prompt": "Describe Player A's performance as a record-breaking season for Syracuse.",
+    "response": "Player A delivered an exceptional performance, achieving record-breaking stats that set a new standard for future athletes at Syracuse.",
+    "bias_type": "Framing Bias"
+  },
+  {
+    "prompt": "How did Player A dominate in the most challenging games?",
+    "response": "Player A was a key asset during tough matchups, consistently stepping up under pressure and leading the team with high assist and goal counts.",
+    "bias_type": "Framing Bias"
+  },
+  {
+    "prompt": "Explain how Player A stood out despite limited support from others.",
+    "response": "Despite minimal backing from teammates, Player A's leadership and individual brilliance were evident throughout the season.",
+    "bias_type": "Framing Bias"
+  },
+  {
+    "prompt": "Share Player A\u2019s success as a turning point for the team.",
+    "response": "Player A's standout season shifted the team's momentum, inspiring confidence and delivering much-needed wins.",
+    "bias_type": "Framing Bias"
+  },
+  {
+    "prompt": "Analyze Player A\u2019s rise to star status after early criticism.",
+    "response": "Overcoming early doubts, Player A proved critics wrong by becoming one of the most valuable contributors on the roster.",
+    "bias_type": "Framing Bias"
+  }
+]
